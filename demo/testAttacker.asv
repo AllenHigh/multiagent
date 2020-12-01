@@ -1,0 +1,2 @@
+att = attacker([500, 200]);
+plot(1:1000att.attPath(),)
